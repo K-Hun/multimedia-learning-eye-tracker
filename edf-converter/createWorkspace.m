@@ -10,5 +10,3 @@ MultimediaEnd = 100;
 
 QuestionStart = 0;
 QuestionEnd = 100;
-
-hey = "Fuck you motherfuckers"
